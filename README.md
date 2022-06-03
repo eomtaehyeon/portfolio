@@ -82,5 +82,5 @@
 
 ## 포트폴리오
 
-[zipflix](portfolio/ZIPFLIX프로젝트.pdf)
-[kaggle](portfolio/시계열활용사례.pdf)
+[zipflix](ZIPFLIX프로젝트.pdf)
+[kaggle](시계열활용사례.pdf)
