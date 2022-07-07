@@ -1,13 +1,31 @@
 # Portfolio
+       " 나를 믿어라. 
+            인생에서 최대의 성과와 기쁨을 수확하는 비결은
+                위험한 삶을 사는 데 있다. "  
+    
 
-# 엄태현
+ <h3>이름 : 엄태현
+ <h3>생년월일 : 1993.09.15
+ <h3>연락처 : 010-7417-8917
+ <h3>E-mail : gkdlrhfo@naver.com
+ <h3>MBTI : ISFP  
 
+![Hexo](https://img.shields.io/badge/Hexo-EA4335?logo=Hexo&logoColor=white&url=eomtaehyeon.github.io)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&url=https://www.instagram.com/hi__gorae)
+
+![](images/Eom.jpg)
+
+
+## Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![github](https://img.shields.io/badge/github-F050320?logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?logo=GitHub&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=R&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=OpenCV&logoColor=white)
 
-![](images/Eom.jpg)
+
 
 --- 
 
