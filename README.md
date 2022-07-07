@@ -10,8 +10,8 @@
  <h3>E-mail : gkdlrhfo@naver.com
  <h3>MBTI : ISFP  
 
-![Hexo](https://img.shields.io/badge/Hexo-EA4335?logo=Hexo&logoColor=white&url=eomtaehyeon.github.io)
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&url=https://www.instagram.com/hi__gorae)
+![Hexo](https://img.shields.io/badge/Hexo-EA4335?logo=Hexo&logoColor=white&link=https://eomtaehyeon.github.io)
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/hi__gorae)
 
 ![](images/Eom.jpg)
 
